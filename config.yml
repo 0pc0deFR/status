@@ -149,6 +149,9 @@ params:
     - name: Websites
       description: Company websites.
       closed: true
+    - name: Applications
+      description: Applications.
+      closed: true
     - name: Uncategorized
       untitled: true
 
@@ -164,6 +167,26 @@ params:
       category: Shared
     - name: Hosting Websites
       category: Shared
+    - name: MySQL Databases
+      category: Shared
+    - name: FirstCloud-Hosting
+      category: Websites
+      link: https://firstcloud-hosting.com
+    - name: Web-Student
+      category: Websites
+      link: https://webstudent.fr
+    - name: LinuFy
+      category: Websites
+      link: https://linufy.com
+    - name: Ly-Nux
+      category: Websites
+      link: https://ly-nux.fr
+    - name: LinuFy App
+      category: Applications
+      link: https://linufy.app
+    - name: Matomo Analytics
+      category: Applications
+      link: https://analytics.firstcloud-hosting.com
 
   # What date format to use?
   #
